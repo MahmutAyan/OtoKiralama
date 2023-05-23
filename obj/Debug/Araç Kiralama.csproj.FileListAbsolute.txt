@@ -1,0 +1,17 @@
+C:\Users\PC\Documents\Visual Studio 2022\Projeler\İkinci Projem 1\Araç Kiralama\Araç Kiralama\bin\Debug\Araç Kiralama.exe.config
+C:\Users\PC\Documents\Visual Studio 2022\Projeler\İkinci Projem 1\Araç Kiralama\Araç Kiralama\bin\Debug\Araç Kiralama.exe
+C:\Users\PC\Documents\Visual Studio 2022\Projeler\İkinci Projem 1\Araç Kiralama\Araç Kiralama\bin\Debug\Araç Kiralama.pdb
+C:\Users\PC\Documents\Visual Studio 2022\Projeler\İkinci Projem 1\Araç Kiralama\Araç Kiralama\obj\Debug\Araç Kiralama.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2022\Projeler\İkinci Projem 1\Araç Kiralama\Araç Kiralama\obj\Debug\Araç Kiralama.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Documents\Visual Studio 2022\Projeler\İkinci Projem 1\Araç Kiralama\Araç Kiralama\obj\Debug\Araç_Kiralama.frmAnaSayfa.resources
+C:\Users\PC\Documents\Visual Studio 2022\Projeler\İkinci Projem 1\Araç Kiralama\Araç Kiralama\obj\Debug\Araç_Kiralama.frmMüşteriEkle.resources
+C:\Users\PC\Documents\Visual Studio 2022\Projeler\İkinci Projem 1\Araç Kiralama\Araç Kiralama\obj\Debug\Araç_Kiralama.Properties.Resources.resources
+C:\Users\PC\Documents\Visual Studio 2022\Projeler\İkinci Projem 1\Araç Kiralama\Araç Kiralama\obj\Debug\Araç Kiralama.csproj.GenerateResource.cache
+C:\Users\PC\Documents\Visual Studio 2022\Projeler\İkinci Projem 1\Araç Kiralama\Araç Kiralama\obj\Debug\Araç Kiralama.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2022\Projeler\İkinci Projem 1\Araç Kiralama\Araç Kiralama\obj\Debug\Araç Kiralama.exe
+C:\Users\PC\Documents\Visual Studio 2022\Projeler\İkinci Projem 1\Araç Kiralama\Araç Kiralama\obj\Debug\Araç Kiralama.pdb
+C:\Users\PC\Documents\Visual Studio 2022\Projeler\İkinci Projem 1\Araç Kiralama\Araç Kiralama\obj\Debug\Araç_Kiralama.frmMüşteriListele.resources
+C:\Users\PC\Documents\Visual Studio 2022\Projeler\İkinci Projem 1\Araç Kiralama\Araç Kiralama\obj\Debug\Araç_Kiralama.frmAraçKayıt.resources
+C:\Users\PC\Documents\Visual Studio 2022\Projeler\İkinci Projem 1\Araç Kiralama\Araç Kiralama\obj\Debug\Araç_Kiralama.frmAraçListele.resources
+C:\Users\PC\Documents\Visual Studio 2022\Projeler\İkinci Projem 1\Araç Kiralama\Araç Kiralama\obj\Debug\Araç_Kiralama.frmSözleşme.resources
+C:\Users\PC\Documents\Visual Studio 2022\Projeler\İkinci Projem 1\Araç Kiralama\Araç Kiralama\obj\Debug\Araç_Kiralama.frmSatış.resources
